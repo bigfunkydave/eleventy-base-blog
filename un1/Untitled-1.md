@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Big Funky Dave
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Big Funky Dave
   order: 3
 ---
-HELLO 
+HELLO AND BE FUNKY
