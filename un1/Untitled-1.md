@@ -7,3 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 HELLO AND BE FUNKY
+<br>
+<img>
