@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Big Funky Dave
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
